@@ -10,6 +10,7 @@ def test_create_booking(playwright:Playwright):
     base_url = "https://restful-booker.herokuapp.com"
 
     request_context = playwright.request.new_context()
+    print("Script started")
 
     # Request body
     request_body = {
