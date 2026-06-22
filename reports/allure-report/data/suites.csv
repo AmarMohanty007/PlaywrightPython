@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1679","test_url[chromium]","Day34_Playwright","2026-06-20","passed","2026-06-20","","test_sample","",""
+"","5879","test_bing_search[chromium]","Day34_Playwright","2026-06-20","failed","2026-06-20","","test_sample","",""
+"","977","test_google_search[chromium]","Day34_Playwright","2026-06-20","passed","2026-06-20","","test_sample","",""
+"","2189","test_Title[chromium]","Day34_Playwright","2026-06-20","passed","2026-06-20","","test_sample","",""
