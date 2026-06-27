@@ -1,0 +1,2 @@
+
+Partial Update Response for booking 1983: {'firstname': 'Scott', 'lastname': 'Tiger', 'totalprice': 1000, 'depositpaid': True, 'bookingdates': {'checkin': '2025-12-15', 'checkout': '2025-12-20'}, 'additionalneeds': 'lunch'}

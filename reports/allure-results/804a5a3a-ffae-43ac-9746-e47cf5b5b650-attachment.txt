@@ -1,0 +1,2 @@
+
+Booking details fetched by Dates {'checkin': '2025-12-15', 'checkout': '2025-12-20'}: []
