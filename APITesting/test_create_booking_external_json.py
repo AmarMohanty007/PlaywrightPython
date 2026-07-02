@@ -41,11 +41,11 @@ def test_create_booking(playwright:Playwright):
     assert booking["lastname"] == "Brown"
     assert booking["totalprice"] == 1000
     assert booking["depositpaid"] is True
-    assert booking["additionalneeds"] == "super bowls"
+    assert booking["additionalneeds"] == "breakfast"
 
     # Validate booking dates (nested JSON object)
-    assert booking["bookingdates"]["checkin"] == "2025-07-01"
-    assert booking["bookingdates"]["checkout"] == "2025-07-05"
+    assert booking["bookingdates"]["checkin"] == "2025-12-15"
+    assert booking["bookingdates"]["checkout"] == "2025-12-20"
 
     # Close the API context
     request_context.dispose()

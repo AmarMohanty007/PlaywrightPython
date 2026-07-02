@@ -176,14 +176,14 @@ import os
 
 
 # Example 8c: Student class with modifiable attributes
-#
-# class Student:
-#     def __init__(self, name, grade):
-#         self.name = name
-#         self.grade = grade
-#
-# s1 = Student("Anna", "A")
-# print(s1.grade)   # A
-#
-# s1.grade = "B"    # Modify instance variable
-# print(s1.grade)   # B
+
+class Student:
+    def __init__(self, name, grade):
+        self.name = name
+        self.grade = grade
+
+s1 = Student("Anna", "A")
+print(s1.grade)   # A
+
+s1.grade = "B"    # Modify instance variable
+print(s1.grade)   # B
