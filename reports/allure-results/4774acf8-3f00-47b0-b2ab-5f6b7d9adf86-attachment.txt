@@ -1,1 +1,0 @@
-{'bookingid': 3079, 'booking': {'firstname': 'William', 'lastname': 'Vega', 'totalprice': 979, 'depositpaid': False, 'bookingdates': {'checkin': '2026-06-23', 'checkout': '2026-06-28'}, 'additionalneeds': 'current'}}

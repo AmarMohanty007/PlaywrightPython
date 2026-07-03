@@ -1,2 +1,0 @@
-{'firstName': 'John', 'lastName': 'Doe', 'city': 'San Jose', 'state': 'CA'}
-Schema validation succcessfull..

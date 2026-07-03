@@ -1,1 +1,0 @@
-{'bookingid': 4154, 'booking': {'firstname': 'Eric', 'lastname': 'Harmon', 'totalprice': 4373, 'depositpaid': True, 'bookingdates': {'checkin': '2026-07-02', 'checkout': '2026-07-07'}, 'additionalneeds': 'town'}}
