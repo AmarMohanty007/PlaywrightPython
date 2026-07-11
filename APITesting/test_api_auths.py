@@ -46,7 +46,7 @@ from playwright.sync_api import Playwright
 # url: https://api.github.com/user/repos
 
 # def test_bearer_token_auth_github_repos(playwright: Playwright):
-#     token=""
+#
 #
 #     request_context = playwright.request.new_context()
 #     response = request_context.get("https://api.github.com/user/repos",
@@ -62,7 +62,7 @@ from playwright.sync_api import Playwright
 # url: https://api.github.com/user
 
 # def test_bearer_token_auth_github_repos(playwright: Playwright):
-#     token=""
+#
 #
 #     request_context = playwright.request.new_context()
 #     response = request_context.get("https://api.github.com/user",
