@@ -24,9 +24,9 @@
 # Data Types
 # Input Output
 # Arithmetic Operators
-
-
 # Relational Operators
+
+
 # Logical Operators
 # Assignment Operators
 # Membership Operators
